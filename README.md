@@ -9,9 +9,9 @@ The GitHub Profile Finder allows users to search for GitHub profiles using usern
 ## Features :
 
 - Search for GitHub profiles using usernames.
-- 
+
 - Display user information including avatar, name, username, number of public repos, followers and following.
-- 
+ 
 - Built with React for a dynamic and responsive user interface.
 
 ## Folder Structure :
