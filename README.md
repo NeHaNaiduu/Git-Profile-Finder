@@ -1,4 +1,4 @@
-# GitHub Profile Finder
+# <u>GitHub Profile Finder</u>
 
 This is a GitHub profile finder application built using React. The main files for the application are present in the `components` folder.
 
@@ -22,7 +22,7 @@ The `components` folder contains the main files for the application. Here's a br
   
 - `Info.jsx`: Component responsible for displaying user information.
 
-## Technologies Used
+## Technologies Used :
 
 - React
   
